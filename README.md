@@ -1,1 +1,1 @@
-# Example_QtMyThread
+# Example QtMyThread
